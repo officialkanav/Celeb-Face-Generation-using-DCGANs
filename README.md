@@ -6,3 +6,4 @@
 ## Generated from random noise
 ![test](https://user-images.githubusercontent.com/11677592/56097947-6fbcaa80-5f18-11e9-8962-1f1bb906f05a.png)
 
+The model was only run for 5 epochs!
